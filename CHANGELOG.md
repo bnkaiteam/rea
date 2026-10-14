@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.6.0](https://github.com/morluto/rea/compare/rea-agents-6.5.0...rea-agents-6.6.0) (2026-10-14)
+
+
+### Bug Fixes
+
+* **release:** restore qualified runtime before the npm canary ([c99c6a8](https://github.com/morluto/rea/commit/c99c6a89d6985881bcad92754f429e39718073d7))
+
 ## [6.5.0](https://github.com/morluto/rea/compare/rea-agents-6.4.0...rea-agents-6.5.0) (2026-10-13)
 
 Provider prerequisites and recorded verification scope are listed in [the testing guide](docs/testing.md).
